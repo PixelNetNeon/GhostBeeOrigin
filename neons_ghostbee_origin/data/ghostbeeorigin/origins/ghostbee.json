@@ -1,6 +1,12 @@
 {
 	"powers": [
-		"ghostbeeorigin:small"
+		"ghostbeeorigin:small",
+		"ghostbeeorigin:elytraflight",
+		"origins:translucent",
+		"origins:phasing",
+		"origins:phantomize",
+		"origins:water_vulnerability",
+		"ghostbeeorigin:hunger"
 		
 	],
 	"icon": "minecraft:honey_block",
