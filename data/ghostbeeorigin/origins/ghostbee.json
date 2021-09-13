@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"ghostbeeorigin:small",
+		"origins:translucent",
+		"origins:phasing",
+		"origins:phantomize",
+		"origins:water_vulnerability",
+		"ghostbeeorigin:hunger",
+		"ghostbeeorigin:flight"
+		
+	],
+	"icon": "minecraft:honey_block",
+	"order": 10,
+	"impact": 2,
+	"name": "Ghost Bee",
+	"description": "You Died As A Bee... You Respawned Back Half Player Half Bee. §4THIS IS UNFISHED. EXPECT ISSUES AND BUGS! IF YOU EXPERENCE A BUG PLEASE REPORT IT!"
+}
